@@ -1,9 +1,11 @@
-# Aplikasi Kartu Nama Digital
+## Identitas Mahasiswa
 - Nama: Fahmi Irfan
 - NIM: 1324085
 - Kelas: SA 03
 - Mata Kuliah: Pemrograman Aplikasi Bergerak
 - Institusi: Politeknik STMI Jakarta
+  
+# Aplikasi Kartu Nama Digital
 
 Aplikasi Android berbasis Kotlin yang dibangun untuk memenuhi Tugas Praktikum Pemrograman Aplikasi Bergerak (Pertemuan 3). Aplikasi ini mendemonstrasikan penggunaan Explicit Intent untuk navigasi halaman dan transfer data, serta Implicit Intent untuk interaksi dengan aplikasi sistem eksternal.
 
@@ -30,5 +32,5 @@ Aplikasi Android berbasis Kotlin yang dibangun untuk memenuhi Tugas Praktikum Pe
 3. Tunggu hingga proses Gradle Sync selesai.
 4. Jalankan aplikasi pada emulator atau perangkat fisik Android.
 
-## Identitas Mahasiswa
+
 
