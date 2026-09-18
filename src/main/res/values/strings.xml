@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kartu Nama Pomy</string>
+    <string name="judul_form">Buat kartu namamu</string>
+    <string name="deskripsi_form">Isi informasi di bawah untuk membuat kartu nama digital yang siap dibagikan.</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="nomor_hp">Nomor WhatsApp / HP</string>
+    <string name="url_portofolio">URL Portofolio</string>
+    <string name="contoh_url">Contoh: pomy.dev</string>
+    <string name="lihat_kartu_nama">Lihat kartu nama</string>
+    <string name="error_nama">Nama wajib diisi</string>
+    <string name="error_email">Masukkan alamat email yang valid</string>
+    <string name="error_nomor">Masukkan nomor HP yang valid (8–15 digit)</string>
+    <string name="error_url">Masukkan URL portofolio yang valid</string>
+    <string name="kartu_nama_saya">Kartu nama saya</string>
+    <string name="profil_profesional">PROFIL PROFESIONAL</string>
+    <string name="aksi_cepat">Aksi cepat</string>
+    <string name="kunjungi_website">Kunjungi website</string>
+    <string name="hubungi_saya">Hubungi saya</string>
+    <string name="bagikan_kartu">Bagikan kartu</string>
+    <string name="subjek_bagikan">Kartu nama %1$s</string>
+    <string name="format_bagikan_kartu">%1$s\nEmail: %2$s\nNomor HP: %3$s\nPortofolio: %4$s</string>
+    <string name="pilih_aplikasi_bagikan">Bagikan kartu melalui</string>
+    <string name="aplikasi_tidak_ditemukan">Tidak ada aplikasi yang dapat menjalankan aksi ini</string>
+</resources>
